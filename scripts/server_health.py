@@ -1,2 +1,1 @@
-Add initial server health script
-print("Network diagnostics initialized")
+print("Server health check initialized")
